@@ -1,9 +1,10 @@
-
+import Chai from "./chai"
 function App() {
 
   return (
     <>
-      <h1>Hello Word | Tanvi </h1>
+      <Chai/>
+      <h1>Testing</h1>
     </>
   )
 }
